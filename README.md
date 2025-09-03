@@ -47,7 +47,7 @@ ecommerce-store/
 - MySQL (e.g., XAMPP with phpMyAdmin)
 - Git
 
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/Login.png)
 ![Shop Page](screenshots/shop.png)
 ![Orders Page](screenshots/orders.png)
 
