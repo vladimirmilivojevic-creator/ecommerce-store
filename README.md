@@ -47,9 +47,16 @@ ecommerce-store/
 - MySQL (e.g., XAMPP with phpMyAdmin)
 - Git
 
+![Login Page](screenshots/login.png)
+![Shop Page](screenshots/shop.png)
+![Orders Page](screenshots/orders.png)
+
+
 ## Quick Start (Step-by-step)
 
 1) Clone repository
 ```bash
 git clone https://github.com/vladimirmilivojevic-creator/ecommerce-store.git
 cd ecommerce-store
+
+
