@@ -51,5 +51,5 @@ ecommerce-store/
 
 1) Clone repository
 ```bash
-git clone https://github.com/USERNAME/ecommerce-store.git
+git clone https://github.com/vladimirmilivojevic-creator/ecommerce-store.git
 cd ecommerce-store
